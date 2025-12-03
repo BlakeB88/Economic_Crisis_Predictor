@@ -1,0 +1,8 @@
+import pandas as pd
+INPUT_FILE = "imputed_dataset.csv"
+COUNTRY_COL = "Country" 
+df = pd.read_csv(INPUT_FILE)
+num_countries = df[COUNTRY_COL].nunique()
+countries = df[COUNTRY_COL].unique()
+print(f"Number of countries in the dataset: {num_countries}")
+print("Sample countries:", countries[:10])

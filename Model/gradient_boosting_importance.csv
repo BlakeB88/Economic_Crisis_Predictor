@@ -1,0 +1,16 @@
+feature,importance
+domestic_credit_mean5,0.30891217451075187
+current_account_std5,0.15093883992440194
+gdp_growth_std5,0.1308045040075459
+gdp_growth_mean5,0.1220009099182082
+total_reserves_mean5,0.08179878646960327
+current_account_mean5,0.05029756082792593
+total_reserves_trend5,0.049573142837714156
+total_reserves_std5,0.03029475984337105
+domestic_credit_std5,0.024752038219071095
+domestic_credit_trend5,0.021157611886304453
+gdp_growth_trend5,0.015669575134877607
+current_account_trend5,0.012847974220400089
+inflation_std5,0.0009521221998243322
+inflation_mean5,0.0
+inflation_trend5,0.0
