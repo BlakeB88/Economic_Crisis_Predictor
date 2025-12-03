@@ -1,8 +1,5 @@
 # Sovereign Debt Crisis Prediction
 
-*A Machine Learning Project*
-Data & analysis details sourced from: 
-
 
 ## 📌 Overview
 
