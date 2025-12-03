@@ -3,13 +3,11 @@
 *A Machine Learning Project*
 Data & analysis details sourced from: 
 
----
 
 ## 📌 Overview
 
 This project uses supervised and unsupervised machine learning models to predict the likelihood of a **sovereign debt crisis within the next 3 years**. Using macroeconomic indicators from the World Bank and crisis labels from Harvard’s Global Crisis Dataset, the models learn patterns that distinguish stable vs. crisis-prone economies.
 
----
 
 ## 📂 Dataset
 
@@ -28,7 +26,6 @@ This project uses supervised and unsupervised machine learning models to predict
 Each indicator is transformed into **5-year rolling features**:
 **mean**, **standard deviation**, **trend**.
 
----
 
 ## 🛠 Preprocessing
 
@@ -40,7 +37,6 @@ Each indicator is transformed into **5-year rolling features**:
 
 This creates a more realistic representation of economic stability, volatility, and momentum.
 
----
 
 ## 🤖 Models Implemented
 
@@ -72,7 +68,6 @@ This creates a more realistic representation of economic stability, volatility, 
 * Optimal **8–9 components** (AIC/BIC)
 * Found multiple high-vulnerability subgroups (>40% crisis probability)
 
----
 
 ## 📊 Key Findings
 
@@ -82,7 +77,6 @@ This creates a more realistic representation of economic stability, volatility, 
 * **K-Means & GMM** reveal natural economic clusters aligned with risk levels.
 * **Five-year rolling features** significantly improve predictive power.
 
----
 
 ## 🚀 Future Directions
 
@@ -92,10 +86,6 @@ This creates a more realistic representation of economic stability, volatility, 
 * Build an interactive early-warning dashboard
 * Perform country-specific and regional risk modeling
 
----
-
 ## 📚 References
 
 Full references and detailed analysis are available in the project report. 
-
-Just tell me!
